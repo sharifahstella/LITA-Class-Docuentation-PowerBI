@@ -22,8 +22,9 @@ This project analyzes HR employee data to provide insights into workforce demogr
 
 Created visuals such as line charts, bar charts, and tables, enabling detailed analysis with slicers to filter by department, location, job role, and tenure.
 
+![](https://github.com/sharifahstella/LITA-Class-Docuentation-PowerBI/blob/main/HRDATA.PNG)
 
-
+![](https://github.com/sharifahstella/LITA-Class-Docuentation-PowerBI/blob/main/HRDATA.PNG)
 
 Power BI Dashboard Design
 Dashboard Overview: Summarize each dashboard page, its visuals, and the purpose.

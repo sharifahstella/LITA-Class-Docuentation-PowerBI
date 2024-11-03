@@ -65,7 +65,5 @@ Demographic Breakdown:
 - Adjust compensation structures in departments with highest Attrition rate based on the age groups.
   
 ## Conclusion
-There fore Continue analyzing HR data regularly to monitor and improve employee satisfaction and retention.However the age group with the highest attrition rate could be the areas of improvement in the organisation
-7. How to Use this Repository
-Instructions: Explain how to access and use each file.
-Power BI Dashboard: Provide a brief note on viewing the .pbix file if included.
+There fore Continue analyzing HR data regularly to monitor and improve employee satisfaction and retention.However the age group with the highest attrition rate could be the areas of improvement in the organisation.
+

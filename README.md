@@ -1,3 +1,5 @@
+I actively attende class for power BI with Mr Temidayo AYENI who took us through the class for  three weeks which was an exciting class.He gave us an assignment of cleaning a file we did in excel called Excel function 2 and therefore we also imported data called HR DATA on Poer Bi to work on.
+
 # HR DATA ANALYSIS TRACKER
 
 ## Project Summary
@@ -15,10 +17,6 @@ This project analyzes HR employee data to provide insights into workforce demogr
 - Location: The region where the employee is based.
 - Attrition:The rate at which employees are leaving the company
 - Business Travel:Trip of employees
-
-### Key HR Metrics Tracked
-
-
 
 ### Power BI Dashboard Components and Storytelling Insights
 

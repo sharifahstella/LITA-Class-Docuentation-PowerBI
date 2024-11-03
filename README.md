@@ -22,7 +22,7 @@ This project analyzes HR employee data to provide insights into workforce demogr
 
 Created visuals such as pie chart, bar charts,donut charts and tables, enabling detailed analysis with slicers to filter by Gender and Education field.
 
-![](https://github.com/sharifahstella/LITA-Class-Docuentation-PowerBI/blob/main/HRDATA.PNG)
+![](https://github.com/sharifahstella/LITA-Class-Docuentation-PowerBI/blob/main/HRRRR.PNG)
 
 ![](https://github.com/sharifahstella/LITA-Class-Docuentation-PowerBI/blob/main/age.PNG)
 

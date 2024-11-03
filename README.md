@@ -1,4 +1,5 @@
-I actively attende class for power BI with Mr Temidayo AYENI who took us through the class for  three weeks which was an exciting class.He gave us an assignment of cleaning a file we did in excel called Excel function 2 and therefore we also imported data called HR DATA on Poer Bi to work on.
+I actively attended classes for Power BI with Mr Temidayo AYENI who took us through the class for three weeks which was an exciting class.we installed Power Bi Desktop from the microsoft store of which it is run on a 8gb ram laptop and He gave us an assignment of cleaning a file we did in excel called Excel function 2 and therefore we also imported data called HR DATA on Power Bi to work on.
+A big thanks to the Tutor for the Power Bi classes tha has gretly impacted on my learning journey on Power Bi .Now with the attendance in class i have learnt alot of things in power Bi
 
 # HR DATA ANALYSIS TRACKER
 

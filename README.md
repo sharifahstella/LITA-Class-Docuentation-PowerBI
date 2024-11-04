@@ -72,13 +72,12 @@ There fore Continue analyzing HR data regularly to monitor and improve employee 
 Here are some key learning outcomes for the training program focused on data storytelling using Power BI, specifically in the context of HR Data:
 
 - Understanding HR data used in the class:Define Hr data and its importance in marketing and business strategy.
-- Data Preparation and Cleaning:
-- Import and prepare data in Power BI from various sources.Clean and transform data using Power Query to ensure accuracy and usability.
+- Data Preparation and Cleaning:Import and prepare data in Power BI from various sources.Clean and transform data using Power Query to ensure accuracy and usability.
 - Creating Segmentation Models:Use DAX (Data Analysis Expressions) to create calculated columns and measures relevant to segmentation.
 - Data Visualization Principles:Understand the principles of effective data visualization and storytelling.Design clear and engaging visualizations to represent customer segments.
-- Building Interactive Dashboards:Create interactive Power BI dashboards that allow users to explore customer segments.Incorporate slicers, filters, and drill-through capabilities for enhanced user experience.
+- Building Interactive Dashboards:Create interactive Power BI dashboards that allow users to explore HR data.Incorporate slicers, filters, and drill-through capabilities for enhanced user experience.
 - Insight Generation:Analyze segmented data to derive actionable insights about customer behavior and preferences.Use Power BI's analytical tools (e.g., Quick Insights, AI features) to uncover trends and patterns.
-- Communicating Insights:Craft a compelling narrative around customer segmentation findings to communicate insights effectively.Present data stories that highlight key customer segments and their implications for marketing strategies.
+- Communicating Insights:Craft a compelling narrative around HR data findings to communicate insights effectively.Present data stories that highlight key customer segments and their implications for marketing strategies.
 
   
 

@@ -27,7 +27,7 @@ Created visuals such as pie chart, bar charts,donut charts and tables, enabling 
 
 ![](https://github.com/sharifahstella/LITA-Class-Docuentation-PowerBI/blob/main/age.PNG)
 
-#### Dashboard Overview: 
+## Dashboard Overview: 
 
 Summarizing each dashboard page, its visuals, and the purpose.
 

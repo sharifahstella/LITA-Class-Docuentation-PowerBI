@@ -63,7 +63,7 @@ Demographic Breakdown:
 #### Recommendations: 
 
 - Implement retention programs in departments with high Attrition rates.
-- Provide career development opportunities for Current employee count for the not to leave the organization.
+- Provide career development opportunities for Current employee counts not to leave the organization.
 - Adjust compensation structures in departments with highest Attrition rate based on the age groups.
   
 ## Conclusion

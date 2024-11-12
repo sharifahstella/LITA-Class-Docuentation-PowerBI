@@ -33,6 +33,7 @@ Summarizing each dashboard page, its visuals, and the purpose.
 
 Employee Overview KPI Cards: 
 Total Number of employees of 1470, Total Number of Attrition of 237, Total number of current employees of 1233, Attrition Rate of 16% and Average age of 37. 
+
 Demographic Breakdown: 
 - A donut chart showing the the Attrition county by department where we found out that  R&D department having the highest number of employees leaving the organization.
 - A bar chart column showing Attriton count by Educational field.
